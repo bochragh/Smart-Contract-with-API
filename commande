@@ -1,0 +1,20 @@
+les commandes à utiliser
+
+
+1-$ sudo npm install -g ganache-cli
+2-$truffle unbox arvindkalra/express-box
+
+---->
+
+Unbox successful, sweet!
+
+Commands:
+
+  Compile: truffle compile
+  Migrate: truffle migrate --network development
+  Ganache: ganache-cli -i 666
+  Express: npm start
+
+
+3-npm install
+4- truffle compile
